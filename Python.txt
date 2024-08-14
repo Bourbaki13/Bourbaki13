@@ -1,0 +1,3 @@
+making a discord app
+working on applying/learning I/O
+working on multithreading
